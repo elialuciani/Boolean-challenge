@@ -1,0 +1,84 @@
+body{
+  background-image: url(Immagini/background.jpg);
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 800px;
+  width: 1100px;
+  margin: auto;
+  border-radius: 5%;
+
+}
+
+#Immagine{
+  margin-top: 50px;
+  width: 250px;
+  height: 100px;
+}
+
+header > div{
+  font-size: 40px;
+  color: rgb(0, 255, 0);
+
+}
+header{
+  text-align: center;
+}
+
+
+#InputVari{
+  background-color: rgba(0, 255, 0, 1.0);
+  text-align: center;
+  background: green, solid;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.Proprietario{
+  font-size: 20px;
+  color: white;
+  margin-left: 50px;
+}
+
+.Distanza{
+  font-size: 15px;
+  color: white;
+  margin-left: 50px;
+}
+
+.PercentualeCarica1{
+  background-color: rgba(255, 117, 20, 1.0);
+  margin-left: 50px;
+  margin-right: 700px;
+  padding: 15px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.PercentualeCarica2{
+  background-color: rgba(0, 255, 0, 1.0);
+  margin-left: 50px;
+  margin-right: 500px;
+  padding: 15px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.PercentualeCarica3{
+  background-color: rgba(255, 0, 0, 1.0);
+  margin-left: 50px;
+  margin-right: 900px;
+  padding: 15px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+footer{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+#Lim{
+  font-size: 25px;
+
+}
